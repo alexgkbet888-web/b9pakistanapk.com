@@ -1,6 +1,7 @@
 ﻿User-agent: *
 Allow: /
-Sitemap: https://b9pakistanapk.com/sitemap.xml
-Sitemap: https://b9pakistanapk.com/feed.xml
-Host: https://b9pakistanapk.com
+Sitemap: http://b9pakistanapk.com/sitemap.xml
+Sitemap: http://b9pakistanapk.com/feed.xml
+Host: http://b9pakistanapk.com
+
 
