@@ -1,142 +1,157 @@
 ﻿[
     {
-        "title":  "About b9pakistanapk.com | B9 Pakistan Guide Site",
-        "description":  "b9pakistanapk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
-        "url":  "/about/"
+        "value":  [
+                      {
+                          "title":  "About b9pakistanapk.com | B9 Pakistan Guide Site",
+                          "description":  "b9pakistanapk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
+                          "url":  "/about/"
+                      },
+                      {
+                          "title":  "B9 Android Help Pakistan | Storage Browser and Update Fixes",
+                          "description":  "B9 Android help for Pakistan users with storage, browser, update, permissions and low-end phone fixes.",
+                          "url":  "/android-help/"
+                      },
+                      {
+                          "title":  "B9 Android Requirements Pakistan | APK Compatibility",
+                          "description":  "B9 Android requirements guide for Pakistan users with version, storage and browser compatibility.",
+                          "url":  "/android-requirements/"
+                      },
+                      {
+                          "title":  "B9 APK File Size Pakistan | Specs and Storage Guide",
+                          "description":  "B9 APK file size Pakistan guide for storage checks, device space and version notes.",
+                          "url":  "/apk-file-size/"
+                      },
+                      {
+                          "title":  "B9 APK Technical FAQ Pakistan | Android Install Questions",
+                          "description":  "B9 APK technical FAQ for Android install, update, storage, browser and safe APK questions.",
+                          "url":  "/apk-technical-faq/"
+                      },
+                      {
+                          "title":  "B9 Browser Download Pakistan | Chrome and Android Help",
+                          "description":  "B9 browser download guide for Pakistan users with Chrome, Android browser and failed download steps.",
+                          "url":  "/browser-download/"
+                      },
+                      {
+                          "title":  "Contact b9pakistanapk.com | Support and Site Feedback",
+                          "description":  "Contact information for b9pakistanapk.com with guidance for account support, site feedback and safe communication.",
+                          "url":  "/contact/"
+                      },
+                      {
+                          "title":  "B9 Corrupt APK Pakistan | Failed File Fix Guide",
+                          "description":  "B9 corrupt APK help for Pakistan users with partial downloads, retry checks and safe route advice.",
+                          "url":  "/corrupt-apk/"
+                      },
+                      {
+                          "title":  "b9pakistanapk.com FAQ | B9 Pakistan Questions",
+                          "description":  "B9 Pakistan FAQ hub for b9pakistanapk.com with registration, app, APK, wallet, support and safety questions.",
+                          "url":  "/faq/"
+                      },
+                      {
+                          "title":  "b9pakistanapk.com Guides | Complete B9 Pakistan Content Hub",
+                          "description":  "Complete B9 Pakistan guide index for b9pakistanapk.com with account, app, APK, wallet, support and game topics.",
+                          "url":  "/guides/"
+                      },
+                      {
+                          "title":  "B9 APK Latest Version Pakistan | Technical Version Desk",
+                          "description":  "B9 APK latest version Pakistan technical page with last checked date, Android requirements and official route.",
+                          "url":  "/latest-version/"
+                      },
+                      {
+                          "title":  "B9 APK Low Storage Pakistan | Install Space Fix",
+                          "description":  "B9 APK low storage guide for Android users with cleanup, duplicate files and retry steps.",
+                          "url":  "/low-storage/"
+                      },
+                      {
+                          "title":  "B9 APK Not Installing Pakistan | Android Permission Fixes",
+                          "description":  "B9 APK not installing help for Android users with unknown apps, storage, browser permission and retry fixes.",
+                          "url":  "/not-installing/"
+                      },
+                      {
+                          "title":  "B9 APK Old Version Pakistan | Risk and Update Guide",
+                          "description":  "B9 APK old version Pakistan guide explaining risks, update conflicts and safer alternatives.",
+                          "url":  "/old-version/"
+                      },
+                      {
+                          "title":  "Privacy Policy | b9pakistanapk.com",
+                          "description":  "Privacy policy for b9pakistanapk.com explaining basic site logs, external registration links and no password collection.",
+                          "url":  "/privacy-policy/"
+                      },
+                      {
+                          "title":  "Responsible Access | b9pakistanapk.com",
+                          "description":  "Responsible 18+ access guidance for b9pakistanapk.com with safety reminders, risk notes and support direction.",
+                          "url":  "/responsible-access/"
+                      },
+                      {
+                          "title":  "B9 Safe APK Pakistan | Official Route and Fake File Warning",
+                          "description":  "B9 Safe APK Pakistan guide with fake APK warnings, official route, Android checks and support verifier.",
+                          "url":  "/safe-apk/"
+                      },
+                      {
+                          "title":  "Terms of Use | b9pakistanapk.com",
+                          "description":  "Terms of use for b9pakistanapk.com covering informational content, 18+ access and external registration links.",
+                          "url":  "/terms/"
+                      },
+                      {
+                          "title":  "B9 Unknown Apps Permission Pakistan | Android Install Help",
+                          "description":  "B9 unknown apps permission guide explaining Android install permission and security prompts.",
+                          "url":  "/unknown-apps-permission/"
+                      },
+                      {
+                          "title":  "B9 APK Update Failed Pakistan | Android Fix Guide",
+                          "description":  "B9 APK update failed guide for Android users with cache, storage, old file and permission fixes.",
+                          "url":  "/update-failed/"
+                      },
+                      {
+                          "title":  "b9pakistanapk.com Updates | B9 Pakistan Content Log",
+                          "description":  "Update log for b9pakistanapk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
+                          "url":  "/updates/"
+                      },
+                      {
+                          "title":  "B9 APK Pakistan Today Version Check | Android Install Notes",
+                          "description":  "Daily B9 APK Pakistan version check for Android install requirements, file size notes, update problems and safe APK guidance.",
+                          "url":  "/today-apk-version-check/"
+                      },
+                      {
+                          "title":  "B9 APK Parse Error Pakistan | Android Install Fix",
+                          "description":  "B9 APK parse error Pakistan guide for Android install package problems, incomplete downloads, storage and version checks.",
+                          "url":  "/parse-error/"
+                      },
+                      {
+                          "title":  "B9 APK Android 13 and 14 Pakistan | Install Permission Guide",
+                          "description":  "B9 APK Android 13 and 14 Pakistan guide for browser permission, unknown apps setting, storage and update troubleshooting.",
+                          "url":  "/android-13-14/"
+                      },
+                      {
+                          "title":  "B9 APK Safe Checklist Pakistan | Before Installing on Android",
+                          "description":  "B9 APK safe checklist Pakistan page for Android users checking source, file completion, permissions, storage and update notes.",
+                          "url":  "/apk-safe-checklist/"
+                      },
+                      {
+                          "title":  "B9 APK Not Downloading Pakistan | Browser and Network Fix",
+                          "description":  "B9 APK not downloading Pakistan guide for browser download problems, mobile network retry, storage, permissions and safe APK checks.",
+                          "url":  "/apk-not-downloading/"
+                      },
+                      {
+                          "title":  "B9 APK Update Loop Pakistan | Android Update Failed Help",
+                          "description":  "B9 APK update loop Pakistan guide for repeated update prompts, storage, old version conflicts and Android install checks.",
+                          "url":  "/apk-update-loop/"
+                      },
+                      {
+                          "title":  "B9 APK Old Android Phone Pakistan | Low RAM and Install Guide",
+                          "description":  "B9 APK old Android phone Pakistan guide for low RAM, storage limits, Android requirements, browser download and safe install checks.",
+                          "url":  "/apk-old-android-phone/"
+                      }
+                  ],
+        "Count":  28
     },
     {
-        "title":  "B9 Android Help Pakistan | Storage Browser and Update Fixes",
-        "description":  "B9 Android help for Pakistan users with storage, browser, update, permissions and low-end phone fixes.",
-        "url":  "/android-help/"
+        "title":  "B9game APK Parse Error Pakistan | Android Fix Guide",
+        "description":  "B9game APK parse error Pakistan guide for incomplete downloads, Android version mismatch, storage and safe retry checks.",
+        "url":  "/b9game-apk-parse-error-fix/"
     },
     {
-        "title":  "B9 Android Requirements Pakistan | APK Compatibility",
-        "description":  "B9 Android requirements guide for Pakistan users with version, storage and browser compatibility.",
-        "url":  "/android-requirements/"
-    },
-    {
-        "title":  "B9 APK File Size Pakistan | Specs and Storage Guide",
-        "description":  "B9 APK file size Pakistan guide for storage checks, device space and version notes.",
-        "url":  "/apk-file-size/"
-    },
-    {
-        "title":  "B9 APK Technical FAQ Pakistan | Android Install Questions",
-        "description":  "B9 APK technical FAQ for Android install, update, storage, browser and safe APK questions.",
-        "url":  "/apk-technical-faq/"
-    },
-    {
-        "title":  "B9 Browser Download Pakistan | Chrome and Android Help",
-        "description":  "B9 browser download guide for Pakistan users with Chrome, Android browser and failed download steps.",
-        "url":  "/browser-download/"
-    },
-    {
-        "title":  "Contact b9pakistanapk.com | Support and Site Feedback",
-        "description":  "Contact information for b9pakistanapk.com with guidance for account support, site feedback and safe communication.",
-        "url":  "/contact/"
-    },
-    {
-        "title":  "B9 Corrupt APK Pakistan | Failed File Fix Guide",
-        "description":  "B9 corrupt APK help for Pakistan users with partial downloads, retry checks and safe route advice.",
-        "url":  "/corrupt-apk/"
-    },
-    {
-        "title":  "b9pakistanapk.com FAQ | B9 Pakistan Questions",
-        "description":  "B9 Pakistan FAQ hub for b9pakistanapk.com with registration, app, APK, wallet, support and safety questions.",
-        "url":  "/faq/"
-    },
-    {
-        "title":  "b9pakistanapk.com Guides | Complete B9 Pakistan Content Hub",
-        "description":  "Complete B9 Pakistan guide index for b9pakistanapk.com with account, app, APK, wallet, support and game topics.",
-        "url":  "/guides/"
-    },
-    {
-        "title":  "B9 APK Latest Version Pakistan | Technical Version Desk",
-        "description":  "B9 APK latest version Pakistan technical page with last checked date, Android requirements and official route.",
-        "url":  "/latest-version/"
-    },
-    {
-        "title":  "B9 APK Low Storage Pakistan | Install Space Fix",
-        "description":  "B9 APK low storage guide for Android users with cleanup, duplicate files and retry steps.",
-        "url":  "/low-storage/"
-    },
-    {
-        "title":  "B9 APK Not Installing Pakistan | Android Permission Fixes",
-        "description":  "B9 APK not installing help for Android users with unknown apps, storage, browser permission and retry fixes.",
-        "url":  "/not-installing/"
-    },
-    {
-        "title":  "B9 APK Old Version Pakistan | Risk and Update Guide",
-        "description":  "B9 APK old version Pakistan guide explaining risks, update conflicts and safer alternatives.",
-        "url":  "/old-version/"
-    },
-    {
-        "title":  "Privacy Policy | b9pakistanapk.com",
-        "description":  "Privacy policy for b9pakistanapk.com explaining basic site logs, external registration links and no password collection.",
-        "url":  "/privacy-policy/"
-    },
-    {
-        "title":  "Responsible Access | b9pakistanapk.com",
-        "description":  "Responsible 18+ access guidance for b9pakistanapk.com with safety reminders, risk notes and support direction.",
-        "url":  "/responsible-access/"
-    },
-    {
-        "title":  "B9 Safe APK Pakistan | Official Route and Fake File Warning",
-        "description":  "B9 Safe APK Pakistan guide with fake APK warnings, official route, Android checks and support verifier.",
-        "url":  "/safe-apk/"
-    },
-    {
-        "title":  "Terms of Use | b9pakistanapk.com",
-        "description":  "Terms of use for b9pakistanapk.com covering informational content, 18+ access and external registration links.",
-        "url":  "/terms/"
-    },
-    {
-        "title":  "B9 Unknown Apps Permission Pakistan | Android Install Help",
-        "description":  "B9 unknown apps permission guide explaining Android install permission and security prompts.",
-        "url":  "/unknown-apps-permission/"
-    },
-    {
-        "title":  "B9 APK Update Failed Pakistan | Android Fix Guide",
-        "description":  "B9 APK update failed guide for Android users with cache, storage, old file and permission fixes.",
-        "url":  "/update-failed/"
-    },
-    {
-        "title":  "b9pakistanapk.com Updates | B9 Pakistan Content Log",
-        "description":  "Update log for b9pakistanapk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
-        "url":  "/updates/"
-    },
-    {
-        "title":  "B9 APK Pakistan Today Version Check | Android Install Notes",
-        "description":  "Daily B9 APK Pakistan version check for Android install requirements, file size notes, update problems and safe APK guidance.",
-        "url":  "/today-apk-version-check/"
-    },
-    {
-        "title":  "B9 APK Parse Error Pakistan | Android Install Fix",
-        "description":  "B9 APK parse error Pakistan guide for Android install package problems, incomplete downloads, storage and version checks.",
-        "url":  "/parse-error/"
-    },
-    {
-        "title":  "B9 APK Android 13 and 14 Pakistan | Install Permission Guide",
-        "description":  "B9 APK Android 13 and 14 Pakistan guide for browser permission, unknown apps setting, storage and update troubleshooting.",
-        "url":  "/android-13-14/"
-    },
-    {
-        "title":  "B9 APK Safe Checklist Pakistan | Before Installing on Android",
-        "description":  "B9 APK safe checklist Pakistan page for Android users checking source, file completion, permissions, storage and update notes.",
-        "url":  "/apk-safe-checklist/"
-    },
-    {
-        "title":  "B9 APK Not Downloading Pakistan | Browser and Network Fix",
-        "description":  "B9 APK not downloading Pakistan guide for browser download problems, mobile network retry, storage, permissions and safe APK checks.",
-        "url":  "/apk-not-downloading/"
-    },
-    {
-        "title":  "B9 APK Update Loop Pakistan | Android Update Failed Help",
-        "description":  "B9 APK update loop Pakistan guide for repeated update prompts, storage, old version conflicts and Android install checks.",
-        "url":  "/apk-update-loop/"
-    },
-    {
-        "title":  "B9 APK Old Android Phone Pakistan | Low RAM and Install Guide",
-        "description":  "B9 APK old Android phone Pakistan guide for low RAM, storage limits, Android requirements, browser download and safe install checks.",
-        "url":  "/apk-old-android-phone/"
+        "title":  "B9game APK Update Latest Version Pakistan | Install Help",
+        "description":  "B9game APK update latest version Pakistan guide for version checks, update loop, old file conflict and Android install help.",
+        "url":  "/b9game-apk-update-latest-version/"
     }
 ]
