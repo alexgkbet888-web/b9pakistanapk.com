@@ -4,18 +4,22 @@
                       {
                           "value":  [
                                         {
-                                            "value":  "                           ",
-                                            "Count":  28
+                                            "value":  [
+                                                          "@{value=                           ; Count=28}",
+                                                          "@{title=B9game APK Parse Error Pakistan | Android Fix Guide; description=B9game APK parse error Pakistan guide for incomplete downloads, Android version mismatch, storage and safe retry checks.; url=/b9game-apk-parse-error-fix/}",
+                                                          "@{title=B9game APK Update Latest Version Pakistan | Install Help; description=B9game APK update latest version Pakistan guide for version checks, update loop, old file conflict and Android install help.; url=/b9game-apk-update-latest-version/}"
+                                                      ],
+                                            "Count":  3
                                         },
                                         {
-                                            "title":  "B9game APK Parse Error Pakistan | Android Fix Guide",
-                                            "description":  "B9game APK parse error Pakistan guide for incomplete downloads, Android version mismatch, storage and safe retry checks.",
-                                            "url":  "/b9game-apk-parse-error-fix/"
+                                            "title":  "B9game APK Error Kaise Fix Kare | Pakistan Android Guide",
+                                            "description":  "Roman Urdu B9game APK error fix guide for Pakistan Android users covering parse error, corrupt file, storage, Android version and browser retry checks.",
+                                            "url":  "/b9game-apk-error-kaise-fix-kare/"
                                         },
                                         {
-                                            "title":  "B9game APK Update Latest Version Pakistan | Install Help",
-                                            "description":  "B9game APK update latest version Pakistan guide for version checks, update loop, old file conflict and Android install help.",
-                                            "url":  "/b9game-apk-update-latest-version/"
+                                            "title":  "B9game Latest Version Kaise Update Kare | APK Pakistan",
+                                            "description":  "Roman Urdu B9game latest version update guide for Pakistan Android users covering update loop, old APK conflict, storage and safe version checks.",
+                                            "url":  "/b9game-latest-version-kaise-update-kare/"
                                         }
                                     ],
                           "Count":  3
@@ -29,42 +33,37 @@
                           "title":  "B9game Latest Version Kaise Update Kare | APK Pakistan",
                           "description":  "Roman Urdu B9game latest version update guide for Pakistan Android users covering update loop, old APK conflict, storage and safe version checks.",
                           "url":  "/b9game-latest-version-kaise-update-kare/"
+                      },
+                      {
+                          "title":  "B9game APK Pakistan Guides | Latest Version, Update and Install Fixes",
+                          "url":  "/b9game-apk-guides/",
+                          "description":  "B9game APK Pakistan technical hub for latest version, old version issues, parse error, update loop, Android requirements and safe APK checks.",
+                          "keywords":  [
+                                           "B9game",
+                                           "B9Game",
+                                           "b9",
+                                           "Pakistan",
+                                           "B9game APK Pakistan"
+                                       ]
+                      },
+                      {
+                          "title":  "B9game Android Update Failed | APK Version Fix for Pakistan",
+                          "url":  "/b9game-android-update-failed/",
+                          "description":  "B9game Android update failed guide for Pakistan users covering old APK versions, storage, parse error, Android requirements and safe update checks.",
+                          "keywords":  [
+                                           "B9game",
+                                           "B9Game",
+                                           "b9",
+                                           "Pakistan",
+                                           "B9game Android update failed"
+                                       ]
                       }
                   ],
-        "Count":  3
+        "Count":  5
     },
     {
-        "title":  "B9game APK Error Kaise Fix Kare | Pakistan Android Guide",
-        "description":  "Roman Urdu B9game APK error fix guide for Pakistan Android users covering parse error, corrupt file, storage, Android version and browser retry checks.",
-        "url":  "/b9game-apk-error-kaise-fix-kare/"
-    },
-    {
-        "title":  "B9game Latest Version Kaise Update Kare | APK Pakistan",
-        "description":  "Roman Urdu B9game latest version update guide for Pakistan Android users covering update loop, old APK conflict, storage and safe version checks.",
-        "url":  "/b9game-latest-version-kaise-update-kare/"
-    },
-    {
-        "title":  "B9game APK Pakistan Guides | Latest Version, Update and Install Fixes",
-        "url":  "/b9game-apk-guides/",
-        "description":  "B9game APK Pakistan technical hub for latest version, old version issues, parse error, update loop, Android requirements and safe APK checks.",
-        "keywords":  [
-                         "B9game",
-                         "B9Game",
-                         "b9",
-                         "Pakistan",
-                         "B9game APK Pakistan"
-                     ]
-    },
-    {
-        "title":  "B9game Android Update Failed | APK Version Fix for Pakistan",
-        "url":  "/b9game-android-update-failed/",
-        "description":  "B9game Android update failed guide for Pakistan users covering old APK versions, storage, parse error, Android requirements and safe update checks.",
-        "keywords":  [
-                         "B9game",
-                         "B9Game",
-                         "b9",
-                         "Pakistan",
-                         "B9game Android update failed"
-                     ]
+        "title":  "B9game APK Version Conflict Fix Pakistan | Old File and Update Help",
+        "description":  "B9game APK version conflict fix Pakistan guide for old APK files, update loops, parse errors, storage checks and latest-version troubleshooting.",
+        "url":  "/b9game-apk-version-conflict-fix-pakistan/"
     }
 ]
