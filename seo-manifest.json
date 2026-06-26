@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "b9pakistanapk.com",
+  "brand": "B9 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "P2",
+  "owner": "core-team",
+  "repoUrl": "https://github.com/alexgkbet888-web/b9pakistanapk.com",
+  "deployUrl": "https://b9pakistanapk.com/",
+  "siteType": "apk-support",
+  "positioning": "B9 APK troubleshooting, Android compatibility and install support for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "B9 APK",
+    "B9game APK",
+    "B9 Pakistan APK",
+    "B9 APK latest version"
+  ],
+  "secondaryKeywords": [
+    "B9 APK parse error",
+    "B9 APK install blocked",
+    "B9 Android APK",
+    "B9game low storage APK install"
+  ],
+  "competitors": [
+    "https://b9game.ltd/download/",
+    "https://b9gameapp.com/",
+    "https://b9game.io/"
+  ],
+  "technical": {
+    "sitemapUrl": "https://b9pakistanapk.com/sitemap.xml",
+    "robotsUrl": "https://b9pakistanapk.com/robots.txt",
+    "feedUrl": "https://b9pakistanapk.com/feed.xml",
+    "canonicalRoot": "https://b9pakistanapk.com/",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:b9pakistanapk.com",
+    "connected": true
+  },
+  "contentPlan": {
+    "homepageAngle": "APK technical support and Android troubleshooting",
+    "clusters": ["apk", "android", "parse-error", "install-blocked", "compatibility"],
+    "weeklyUpdateTarget": 3
+  },
+  "lastUpdated": "2026-06-27"
+}
