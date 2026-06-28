@@ -1,4 +1,4 @@
-﻿{
+{
   "schemaVersion": "1.0",
   "domain": "b9pakistanapk.com",
   "brand": "B9 Pakistan",
@@ -48,6 +48,6 @@
     "clusters": ["apk", "android", "parse-error", "install-blocked", "compatibility"],
     "weeklyUpdateTarget": 3
   },
-  "lastUpdated": "2026-06-28"
+  "lastUpdated": "2026-06-29"
 }
 
